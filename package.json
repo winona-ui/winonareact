@@ -1,6 +1,6 @@
 {
   "name": "winonareact",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "WinonaReact is a UI component library for React",
   "main": ".dist/index.js",
   "module": ".dist/index.mjs",
