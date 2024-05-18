@@ -1,0 +1,31 @@
+{
+  "name": "winonareact",
+  "version": "1.0.0",
+  "description": "WinonaReact is a UI component library for React",
+  "main": ".dist/index.js",
+  "module": ".dist/index.mjs",
+  "types": ".dist/index.d.ts",
+  "homepage": "https://github.com/winona-ui/winonareact",
+  "repository": {
+    "url": "https://github.com/winona-ui/winonareact"
+  },
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [
+    "react",
+    "typescript",
+    "ui",
+    "component",
+    "library",
+    "winonareact",
+    "windows",
+    "design"
+  ],
+  "author": "monacodelisa",
+  "license": "MIT",
+  "devDependencies": {
+    "tsup": "^8.0.2",
+    "typescript": "^5.4.5"
+  }
+}
