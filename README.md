@@ -1,6 +1,6 @@
 # winonareact
 
-###   Angular implementation of the Winona UI Component Library.
+### React implementation of the Winona UI Component Library.
 
 This project is part of the Winona UI suite, aimed at providing seamless UI components for Angular developers. Our goal is to ensure that these components work flawlessly on Windows, but they are designed to be cross-platform compatible as well.
 
