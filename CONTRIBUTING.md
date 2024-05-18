@@ -68,7 +68,7 @@ Every new issue is tagged with the "needs triage" label, signifying that it requ
 
 # Standardization Across UI Versions
 
-All UI versions of Winona UI – including Angular (winonareact), React (WinonaReact), and Vue (WinonaVue) – maintain consistent file structures, functionalities, and feature implementations deliberately. The variations between versions are minimal, primarily revolving around ensuring that all versions offer the same visual UI components.
+All UI versions of Winona UI – including Angular (WinonaNG), React (WinonaReact), and Vue (WinonaVue) – maintain consistent file structures, functionalities, and feature implementations deliberately. The variations between versions are minimal, primarily revolving around ensuring that all versions offer the same visual UI components.
 
 If a UI component exists in one UI version, the same implementation shall be extended to the other UI versions, unless a superior alternative is proposed and accepted.
 
